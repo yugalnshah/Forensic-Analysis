@@ -15,7 +15,6 @@ Why BSTs? In a past semester of CS111, students had a DNA assignment that used a
 
 ### 1. createSingleProfile
 
-1. createSingleProfile
 Given a single person’s data in an input file, read all information and return a new Profile containing the person’s information. 
 
 Input files have been provided to test this method. Each input file is formatted as follows.
