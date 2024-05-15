@@ -1,5 +1,7 @@
 # Forensic Analysis
- 
+
+The purpose of this assignment is to practice using Binary Search Trees to analyze DNA.
+
 ## Overview
 I’ve been tasked with identifying who a DNA sequence may belong to based on an unknown person’s DNA sequence and a DNA database I have. A person’s DNA has pairs of chromosomes; I will focus on a single pair of the same chromosome to identify people whose samples we want to investigate further. 
 
